@@ -10,7 +10,7 @@
 * You want a fast editing way (Very Fast).
 * Extensible text editor.
 
-Personally, I use it because I accidentally got used to its movement mechanism.
+Personally, I use it because I accidentally got used to its movement mechanism ;).
 
 # VIM Modes
 There multiple modes in vim for dealing withe text.
