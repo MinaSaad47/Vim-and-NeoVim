@@ -135,7 +135,7 @@ If that happened, run the shell command `[$ fg]`.
 
 #### keys
 * `[u]` --> Undo the previous changes.
-* `[R]` --> Redo the previous changes.
+* `[C-r]` --> Redo the previous changes.
 
 # Copying (Yanking) & Pasting
 
